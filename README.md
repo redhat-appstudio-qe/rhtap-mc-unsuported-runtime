@@ -1,0 +1,1 @@
+Scenario with component supported by RHTAP and another one not supported.
